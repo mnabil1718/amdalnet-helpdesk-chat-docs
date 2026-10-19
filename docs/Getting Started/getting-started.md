@@ -1,11 +1,7 @@
 ---
-title: Welcome to Amdalnet Helpdesk
+title: Overview
 hidden: false
 ---
-<Callout icon="📘" theme="info">
-  **Template:**  Delete this callout and edit this page with your content and links.
-</Callout>
-
 <Cards>
   {/* Edit the props below to customize these components */}
   <Card title="Quick Start" href="#" icon="fa-duotone fa-rocket-launch">Learn how to get started with our product</Card>
@@ -44,5 +40,3 @@ hidden: false
 
   <Card kind="tile" title="Sync" href="#" icon="fa-duotone fa-code-compare">Connect to a storage provider</Card>
 </Cards>
-
-<br />
