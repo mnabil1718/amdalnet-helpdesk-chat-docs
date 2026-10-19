@@ -22,7 +22,7 @@ Setelah itu akan muncul formulir dialog yang harus pengguna isi. Beberapa input 
 - Nama Instansi/Perusahaan
 - Email
 - Nomor Whatsapp/Telepon
-- Pesan (maks. 1000 karakter)
+- Pesan (maks. 1000 karakter), dapat mengandung emoji dan link/URL
 
 Adapun beberapa kolom input dan fitur opsional antara lain:
 
@@ -34,8 +34,9 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
   - Dapat berupa video: .mp4, .mov, .webm
   - Untuk setiap gambar dan dokumen maksimum ukuran 10 MB
   - Untuk setiap video maksimum ukuran 50 MB
-- Emoji
 
 ![](https://files.readme.io/b0cc5697d63bb7eb43ce8a46fd5dfb2ca885dd5a3282975bfb090bbb9eb42199-image.png)
 
-Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog.
+Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan notifikasi di bagian atas dan akan di-redirect ke halaman chat.
+
+<br />
