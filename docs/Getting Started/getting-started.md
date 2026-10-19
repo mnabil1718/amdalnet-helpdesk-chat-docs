@@ -7,11 +7,11 @@ Dokumen ini berisi manual guide untuk admin dan helpdesk agar menjadi petunjuk d
 ## Langkah Selanjutnya
 
 <Cards>
-  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-magnifying-glass">Everything you need to upgrade</Card>
+  <Card isNew kind="tile" title="v2.0 Migration" href="#" icon="fa-duotone fa-circle-user">Panduan Role Admin</Card>
 
-  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-bullhorn">Real-time events are now available</Card>
+  <Card kind="tile" title="Webhooks" href="#" icon="fa-duotone fa-phone">Panduan Role Helpdesk</Card>
 
-  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-robot">Our native Android library is out of beta</Card>
+  <Card kind="tile" title="Android SDK" href="#" icon="fa-duotone fa-users">Panduan Pengguna Publik</Card>
 </Cards>
 
 <br />
