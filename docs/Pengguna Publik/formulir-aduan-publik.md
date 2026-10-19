@@ -43,14 +43,24 @@ Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang 
 
 ![](https://files.readme.io/ba5bb0a5447d9a806b320c934cd46736667bb4659e981c4baa772c56fb6e33b6-image.png)
 
-Setelah mengisi formulir aduan, pengguna akan otomatis diarahkan ke halaman chat aduan dimana pengguna dapat berkirim pesan dan lampiran kepada personalia helpdesk AMDALNET. Jika halaman tertutup atau tidak langsung dapat diakses pengguna dapat melihat email masuk dari AMDALNET dengan subjek "Pesan Anda Telah diterima - AMDALNET \[Kode Chat]". Pengguna dapat mengakses halaman caht dengan mengklik tombol "Lanjutkan Percakapan" atau direct link di bawah tombol.
+Setelah mengisi formulir aduan, pengguna akan otomatis diarahkan ke halaman chat aduan dimana pengguna dapat berkirim pesan dan lampiran kepada personalia helpdesk AMDALNET.&#x20;
 
 > Saat ini fitur chat belum real-time sehingga pengguna maupun helpdesk harus menekan tombol "refresh" di kanan atas untuk mendapatkan pesan terbaru. Notifikasi balasan real-time hanya diterima pengguna melalui email.
 
-![](https://files.readme.io/91480b2f854fa43a76b4def1dcfc26bacc9a6f714f983d4d51f35dc5b54923fb-image.png)
+## Notifikasi Email
+
+Jika halaman tertutup atau tidak langsung dapat diakses pengguna dapat melihat email masuk dari AMDALNET. Pengguna juga harus berhati-hati karena email yang dikirim mungkin masuk ke folder SPAM pada inbox email.
 
 <Callout icon="far fa-seal-exclamation" theme="error">
   ### Cek Spam Inbox
 
   Email mungkin dapat masuk ke spam inbox email pengguna. Hal ini diluar kendali AMDALNET sehingga pengguna harus melihat folder SPAM untuk berjaga-jaga.
 </Callout>
+
+Pengguna akan mendapatkan 4 macam email dari fitur chat aduan AMDALNET pada beberapa titik percakapan:
+
+### Submit Form Aduan
+
+Kirim Pesan pertama kali dari form aduan. Aksi ini akan membuat sesi aduan/percakapan baru dengan personalia helpdesk AMDALNET.
+
+![](https://files.readme.io/91480b2f854fa43a76b4def1dcfc26bacc9a6f714f983d4d51f35dc5b54923fb-image.png)
