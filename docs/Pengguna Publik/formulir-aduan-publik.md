@@ -41,8 +41,6 @@ Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang 
 
 ## Halaman Chat
 
-![](https://files.readme.io/ba5bb0a5447d9a806b320c934cd46736667bb4659e981c4baa772c56fb6e33b6-image.png)
-
 <br />
 
 ## Notifikasi Email
