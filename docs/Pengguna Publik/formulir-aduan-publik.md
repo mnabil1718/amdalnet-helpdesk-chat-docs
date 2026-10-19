@@ -39,10 +39,6 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
 
 Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan notifikasi di bagian atas dan akan di-redirect ke halaman chat.
 
-## Halaman Chat
-
-<br />
-
 ## Notifikasi Email
 
 Jika halaman tertutup atau tidak langsung dapat diakses pengguna dapat melihat email masuk dari AMDALNET. Pengguna juga harus berhati-hati karena email yang dikirim mungkin masuk ke folder SPAM pada inbox email.
