@@ -2,7 +2,7 @@
 title: Overview
 hidden: false
 ---
-Dokumen ini berisi manual guide untuk admin dan helpdesk agar menjadi petunjuk dan manual penggunaan fitur publik chat aduan di aplikasi AMDALNET. Segala bentuk kritik dan saran sangat diapresiasi untuk proses kelengkapan dokumentasi fitur, sehingga dapat menjadi acuan di masa yang akan datang.
+Dokumen ini berisi manual guide untuk admin, helpdesk, dan pengguna publik agar menjadi petunjuk dan manual penggunaan fitur publik chat aduan di aplikasi AMDALNET. Segala bentuk kritik dan saran sangat diapresiasi untuk proses kelengkapan dokumentasi fitur, sehingga dapat menjadi acuan di masa yang akan datang.
 
 ## Langkah Selanjutnya
 
