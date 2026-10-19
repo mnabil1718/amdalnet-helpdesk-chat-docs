@@ -6,7 +6,7 @@ excerpt: >-
 deprecated: false
 hidden: false
 metadata:
-  robots: index
+  robots: noindex
 ---
 ## Form Aduan
 
