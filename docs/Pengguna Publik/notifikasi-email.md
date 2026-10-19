@@ -8,8 +8,6 @@ hidden: false
 metadata:
   robots: index
 ---
-## Notifikasi Email
-
 Jika halaman tertutup atau tidak langsung dapat diakses pengguna dapat melihat email masuk dari AMDALNET. Pengguna juga harus berhati-hati karena email yang dikirim mungkin masuk ke folder SPAM pada inbox email.
 
 <Callout icon="far fa-seal-exclamation" theme="error">
