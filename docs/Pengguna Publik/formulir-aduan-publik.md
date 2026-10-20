@@ -39,6 +39,7 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
 
 <Image src="https://files.readme.io/1fb0ddabef5d3147bcefb33ff3e9e4e84f88cb89445d63f07343b68b778552c9-image.png" align="center" width="80%" />
 
-Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan notifikasi di bagian atas dan akan di-redirect ke halaman chat.
+
+Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan email konfirmasi chat di inbox atau spam di email yang di masukan dan pengguna notifikasi di bagian atas dan akan di-redirect ke halaman chat.
 
 <br />
