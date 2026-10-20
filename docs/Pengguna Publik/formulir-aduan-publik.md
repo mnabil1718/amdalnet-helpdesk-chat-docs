@@ -22,6 +22,7 @@ Setelah itu akan muncul formulir dialog yang harus pengguna isi. Beberapa input 
 - Nama Instansi/Perusahaan
 - Email
 - Nomor Whatsapp/Telepon
+- Nomor Registrasi Amdalnet (Opsional)
 - Pesan (maks. 1000 karakter), dapat mengandung emoji dan link/URL
 
 Adapun beberapa kolom input dan fitur opsional antara lain:
@@ -35,9 +36,8 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
   - Untuk setiap gambar dan dokumen maksimum ukuran 10 MB
   - Untuk setiap video maksimum ukuran 50 MB
 
-![](https://files.readme.io/b0cc5697d63bb7eb43ce8a46fd5dfb2ca885dd5a3282975bfb090bbb9eb42199-image.png)
 
-![](https://files.readme.io/1fb0ddabef5d3147bcefb33ff3e9e4e84f88cb89445d63f07343b68b778552c9-image.png)
+<Image src="https://files.readme.io/1fb0ddabef5d3147bcefb33ff3e9e4e84f88cb89445d63f07343b68b778552c9-image.png" align="center" width="80%" />
 
 Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan notifikasi di bagian atas dan akan di-redirect ke halaman chat.
 
