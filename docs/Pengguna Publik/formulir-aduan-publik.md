@@ -41,4 +41,10 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
 
 Setelah pengguna mengisi kolom yang wajib dan mengisi pesan dengan keluhan yang dihadapi, pengguna dapat menekan tombol "Kirim Pesan" di kanan bawah dialog. Jika berhasil pengguna akan mendapatkan  notifikasi di bagian atas dan akan di-redirect ke halaman chat.
 
+<Callout icon="🚧" theme="warn">
+  ### Tab baru tidak terbuka?
+
+  Browser mungkin memblokir pop-up. Izinkan pop-up untuk situs AMDALNET, atau buka halaman chat melalui tautan di email konfirmasi (lihat Notifikasi Email).
+</Callout>
+
 ![](https://files.readme.io/20785bb3b7ce8d6533117c9bd65ba8247d5964b6d5bfc0de25fba86e316cc53d-image.png)
