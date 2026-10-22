@@ -5,9 +5,9 @@ hidden: false
 metadata:
   robots: index
 ---
-## 4. Mengelola Daftar Percakapan
+## Mengelola Daftar Percakapan
 
-### 4.1. Melihat Daftar Chat
+### 1. Melihat Daftar Chat
 
 Tabel Chat Bantuan menampilkan:
 
@@ -26,7 +26,7 @@ Daftar percakapan diurutkan berdasarkan waktu mulai terbaru.
 
 Admin dapat berpindah halaman dan mengubah jumlah data yang ditampilkan melalui pagination.
 
-### 4.2. Mencari Percakapan
+### 2. Mencari Percakapan
 
 Gunakan kolom pencarian untuk mencari berdasarkan:
 
@@ -45,7 +45,7 @@ Langkah penggunaan:
 
 Pencarian daftar chat tidak mencari seluruh isi pesan percakapan.
 
-### 4.3. Memfilter Status
+### 3. Memfilter Status
 
 Admin dapat memilih satu atau beberapa status:
 
@@ -57,7 +57,7 @@ Admin dapat memilih satu atau beberapa status:
 
 Status **Menunggu Admin** tidak sama dengan penanda belum dibaca. Membuka percakapan tidak otomatis mengubahnya menjadi **Menunggu User**.
 
-### 4.4. Memfilter Agen
+### 4. Memfilter Agen
 
 Admin dapat:
 
@@ -68,7 +68,7 @@ Admin dapat:
 
 Filter agen dapat menampilkan agen nonaktif untuk membantu penelusuran percakapan lama.
 
-### 4.5. Memfilter Tanggal
+### 5. Memfilter Tanggal
 
 1. Pilih tanggal awal.
 2. Pilih tanggal akhir.
@@ -76,7 +76,7 @@ Filter agen dapat menampilkan agen nonaktif untuk membantu penelusuran percakapa
 
 Tanggal akhir tidak boleh lebih awal daripada tanggal awal.
 
-### 4.6. Mereset Filter
+### 6. Mereset Filter
 
 Klik **Reset** untuk mengosongkan pencarian, status, rentang tanggal, dan filter agen.
 
