@@ -9,6 +9,8 @@ metadata:
 
 Penugasan dilakukan melalui dropdown pada kolom **Penugasan**.
 
+![](https://files.readme.io/51f0cbc1b8d4c0e2edbbca9bb3bc051435e02cbedead1e6a7b2b22d7da62e260-Screenshot_2026-10-22_at_16.47.59.png)
+
 ### 1. Menetapkan atau Mengganti Agen
 
 1. Cari percakapan yang ingin ditugaskan.
