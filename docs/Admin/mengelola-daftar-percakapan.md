@@ -1,0 +1,83 @@
+---
+title: Mengelola Daftar Percakapan
+deprecated: false
+hidden: false
+metadata:
+  robots: index
+---
+## 4. Mengelola Daftar Percakapan
+
+### 4.1. Melihat Daftar Chat
+
+Tabel Chat Bantuan menampilkan:
+
+- Nomor urut.
+- ID atau kode chat.
+- Tanggal mulai percakapan.
+- Nama pengguna.
+- Email pengguna.
+- Nama instansi.
+- Ringkasan pesan dan waktu pembaruan terakhir.
+- Status percakapan.
+- Agen penanggung jawab.
+- Tombol untuk membuka percakapan.
+
+Daftar percakapan diurutkan berdasarkan waktu mulai terbaru.
+
+Admin dapat berpindah halaman dan mengubah jumlah data yang ditampilkan melalui pagination.
+
+### 4.2. Mencari Percakapan
+
+Gunakan kolom pencarian untuk mencari berdasarkan:
+
+- Kode chat.
+- Nama pengguna.
+- Email.
+- Nomor telepon.
+- Nomor registrasi AMDALNET.
+- Nama instansi.
+
+Langkah penggunaan:
+
+1. Masukkan kata kunci.
+2. Tunggu hasil pencarian atau klik tombol pencarian.
+3. Sistem menampilkan percakapan yang sesuai.
+
+Pencarian daftar chat tidak mencari seluruh isi pesan percakapan.
+
+### 4.3. Memfilter Status
+
+Admin dapat memilih satu atau beberapa status:
+
+| Status         | Arti                                                 |
+| -------------- | ---------------------------------------------------- |
+| Menunggu Admin | Percakapan sedang menunggu tanggapan admin           |
+| Menunggu User  | Admin sudah membalas dan menunggu tanggapan pengguna |
+| Selesai        | Percakapan sudah diakhiri                            |
+
+Status **Menunggu Admin** tidak sama dengan penanda belum dibaca. Membuka percakapan tidak otomatis mengubahnya menjadi **Menunggu User**.
+
+### 4.4. Memfilter Agen
+
+Admin dapat:
+
+- Memilih satu atau beberapa agen.
+- Mencari opsi agen berdasarkan nama atau email.
+- Memilih **Belum ditugaskan**.
+- Menggabungkan pilihan agen dengan percakapan yang belum ditugaskan.
+
+Filter agen dapat menampilkan agen nonaktif untuk membantu penelusuran percakapan lama.
+
+### 4.5. Memfilter Tanggal
+
+1. Pilih tanggal awal.
+2. Pilih tanggal akhir.
+3. Sistem menyaring berdasarkan tanggal mulai percakapan.
+
+Tanggal akhir tidak boleh lebih awal daripada tanggal awal.
+
+### 4.6. Mereset Filter
+
+Klik **Reset** untuk mengosongkan pencarian, status, rentang tanggal, dan filter agen.
+
+Pada akun admin, reset mengembalikan daftar ke cakupan semua agen.
