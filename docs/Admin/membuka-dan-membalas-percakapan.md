@@ -9,6 +9,8 @@ metadata:
 
 ### 1. Membuka Chat
 
+![](https://files.readme.io/51087e486ac7abf9e2b303fb7d2ff4d414f54a194cb5e010d8178692dc374e0c-Screenshot_2026-10-22_at_16.49.27.png)
+
 Pada kolom Aksi:
 
 - Klik **Masuk Chat** untuk percakapan yang belum selesai.
@@ -17,6 +19,8 @@ Pada kolom Aksi:
 Percakapan dibuka pada tab atau jendela browser terpisah, bergantung pada pengaturan browser. Membuka kode chat yang sama kembali akan menggunakan tab bernama sama apabila masih tersedia.
 
 ### 2. Informasi pada Ruang Chat
+
+![](https://files.readme.io/840060502306c2fcba082e9d8902af77644d55dc2407c5334fc4e769ae136b1c-Screenshot_2026-10-22_at_16.50.58.png)
 
 Admin dapat melihat:
 
@@ -31,6 +35,9 @@ Admin dapat melihat:
 Klik ikon salin di samping kode chat untuk menyalin kode tersebut.
 
 ### 3. Memuat Pesan Terbaru
+
+
+<Image src="https://files.readme.io/840060502306c2fcba082e9d8902af77644d55dc2407c5334fc4e769ae136b1c-Screenshot_2026-10-22_at_16.50.58.png" align="center" />
 
 Klik tombol **Muat ulang chat** di kanan atas.
 
