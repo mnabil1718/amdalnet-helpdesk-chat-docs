@@ -1,7 +1,7 @@
 ---
 title: Membuka dan Membalas Percakapan
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: index
 ---
