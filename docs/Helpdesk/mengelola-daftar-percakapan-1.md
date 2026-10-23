@@ -2,7 +2,7 @@
 title: Mengelola Daftar Percakapan
 excerpt: Tampilan UI tabel history percakapan beserta filter & action untuk helpdesk
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
