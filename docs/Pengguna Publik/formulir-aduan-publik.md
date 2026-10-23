@@ -4,7 +4,7 @@ excerpt: >-
   Starting point mulainya percakapan aduan antara pengguna publik dan personalia
   helpdesk amdalnet.
 deprecated: false
-hidden: false
+hidden: true
 metadata:
   robots: noindex
 ---
