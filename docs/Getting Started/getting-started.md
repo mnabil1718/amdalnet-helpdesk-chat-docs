@@ -12,7 +12,7 @@ Dokumen ini berisi manual guide untuk admin, helpdesk, dan pengguna publik agar 
 ## Langkah Selanjutnya
 
 <Cards>
-  <Card isNew kind="tile" title="Admin" href="#" icon="fa-duotone fa-circle-user">Panduan Role Admin</Card>
+  <Card isNew kind="tile" title="Admin" href="/docs/mengelola-daftar-percakapan" icon="fa-duotone fa-circle-user">Panduan Role Admin</Card>
 
   <Card kind="tile" title="Helpdesk" href="/docs/mengelola-daftar-percakapan-1" icon="fa-duotone fa-headphones">Panduan Role Helpdesk</Card>
 
