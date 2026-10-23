@@ -4,7 +4,9 @@ excerpt: >-
   Halaman dimana pengguna publik dapat bertukar pesan dengan personel helpdesk
   AMDALNET
 deprecated: false
-hidden: false
+hidden: true
+link:
+  new_tab: false
 metadata:
   robots: index
 ---
