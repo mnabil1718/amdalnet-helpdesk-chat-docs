@@ -29,13 +29,12 @@ Adapun beberapa kolom input dan fitur opsional antara lain:
 
 - Nomor Registrasi AMDALNET
 - File Lampiran dengan ketentuan:
-  - Maks. 5 File
-  - Dapat berupa dokumen: .docx, .zip, .pdf
-  - Dapat berupa gambar: .jpg, .png
-  - Dapat berupa video: .mp4, .mov, .webm
-  - Untuk setiap gambar dan dokumen maksimum ukuran 10 MB
-  - Untuk setiap video maksimum ukuran 50 MB
-
+  | Jenis   | Format         | Batas ukuran per file |
+  | ------- | -------------- | --------------------- |
+  | Gambar  | JPG, JPEG, PNG | 10 MB                 |
+  | Dokumen | PDF, DOCX      | 10 MB                 |
+  | Arsip   | ZIP            | 10 MB                 |
+  | Video   | MP4, MOV, WEBM | 50 MB                 |
 
 <Image src="https://files.readme.io/1fb0ddabef5d3147bcefb33ff3e9e4e84f88cb89445d63f07343b68b778552c9-image.png" align="center" width="80%" />
 
