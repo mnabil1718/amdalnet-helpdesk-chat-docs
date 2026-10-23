@@ -1,9 +1,9 @@
 ---
 title: Pengaturan Chat
 deprecated: false
-hidden: false
+hidden: true
 metadata:
-  robots: index
+  robots: noindex
 ---
 ## Pengaturan Chat
 
