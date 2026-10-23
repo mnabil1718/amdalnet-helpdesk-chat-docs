@@ -1,7 +1,7 @@
 ---
-title: Copy of Menggunakan Template Balasan
+title: Menggunakan Template Balasan
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
