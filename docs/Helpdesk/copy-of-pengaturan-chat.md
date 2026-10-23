@@ -92,10 +92,10 @@ Isi konfigurasi berikut:
 - Username.
 - Password.
 
-<Callout icon="far fa-circle-info" theme="info">
+<Callout icon="far fa-triangle-exclamation" theme="warn">
   ### Perhatian
 
-  Jika Anda hendak menggunakan gmail SMTP, pastikan kolom password menggunakan APP PASSWORD yang di-generate di pengaturan akun google tersebut. <Anchor target="_blank" href="https://support.google.com/mail/answer/185833?hl=id">Lihat disini</Anchor>
+  Jika Anda hendak menggunakan gmail SMTP, pastikan kolom password menggunakan APP PASSWORD yang di-generate di pengaturan akun google tersebut. <Anchor target="_blank" href="https://support.google.com/mail/answer/185833?hl=id">Lihat panduan disini</Anchor>
 </Callout>
 
 Saat mengubah akun, password dapat dikosongkan apabila tidak ingin mengganti password lama. Password tersimpan tidak ditampilkan kembali oleh API.
