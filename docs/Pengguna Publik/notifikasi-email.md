@@ -45,3 +45,7 @@ Anda akan menerima email saat helpdesk mengakhiri chat dengan Anda. Helpdesk mun
 - Permasalahan atau topik percakapan telah selesai
 - Percakapan melanggar ketentuan dan pedoman aduan AMDALNET
 - Anda tidak merespon percakapan selama 4 hari
+
+Isi email hampir sama dengan balasan helpdesk, namun tombol diganti dengan "Mulai Chat Baru" dan mengarahkan Anda ke halaman utama AMDALNET. Dibawahnya Anda juga akan menemukan log percakapan lengkap secara kronologis.
+
+![](https://files.readme.io/4670da5bf3c20ecbb761806a715d0c95bf6f771b9f178aa00558bc7a7553504c-image.png)
