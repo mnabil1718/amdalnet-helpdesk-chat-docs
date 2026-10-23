@@ -18,8 +18,6 @@ Setelah mengisi formulir aduan, pengguna akan otomatis diarahkan ke halaman chat
 
 ![](https://files.readme.io/ba5bb0a5447d9a806b320c934cd46736667bb4659e981c4baa772c56fb6e33b6-image.png)
 
-<br />
-
 ## Lampiran
 
 Anda dapat berkirim lampiran dengan personalia helpdesk AMDALNET dengan meng-klik ikon lampiran di pojok kiri input chat.
