@@ -1,7 +1,7 @@
 ---
 title: Mengirim dan Mengakses Lampiran
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: noindex
 ---
