@@ -1,9 +1,9 @@
 ---
 title: Menggunakan Template Balasan
 deprecated: false
-hidden: false
+hidden: true
 metadata:
-  robots: index
+  robots: noindex
 ---
 ## Menggunakan Template Balasan
 
