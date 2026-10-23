@@ -1,7 +1,7 @@
 ---
 title: Overview
 excerpt: Dokumentasi Fitur Chat Aduan AMDALNET
-hidden: false
+hidden: true
 ---
 ![](https://files.readme.io/75b7d6858ba7c7a574b6ad89f64888ed16c594b663e5c343136f3b11729cfc1b-image.png)
 
