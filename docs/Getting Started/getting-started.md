@@ -14,7 +14,7 @@ Dokumen ini berisi manual guide untuk admin, helpdesk, dan pengguna publik agar 
 <Cards>
   <Card isNew kind="tile" title="Admin" href="#" icon="fa-duotone fa-circle-user">Panduan Role Admin</Card>
 
-  <Card kind="tile" title="Helpdesk" href="#" icon="fa-duotone fa-headphones">Panduan Role Helpdesk</Card>
+  <Card kind="tile" title="Helpdesk" href="/mengelola-daftar-percakapan-1" icon="fa-duotone fa-headphones">Panduan Role Helpdesk</Card>
 
   <Card kind="tile" title="Publik" href="#" icon="fa-duotone fa-users">Panduan Pengguna Publik</Card>
 </Cards>
