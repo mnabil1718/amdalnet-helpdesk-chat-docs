@@ -23,8 +23,6 @@ Helpdesk dapat melihat aduan chat secara kronologis melalui tampilan tabel yang 
 
 ![](https://files.readme.io/deb50cc8ff58a5a7542581b457c8a7287155d5909d0dd1bdee94c871363b4a5f-image.png)
 
-<br />
-
 ### Mencari Percakapan
 
 ![](https://files.readme.io/198e2c646223efc945baebfca6588059dec45ac731603ae1eb1288d3699f15c4-Screenshot_2026-10-22_at_16.41.46.png)
