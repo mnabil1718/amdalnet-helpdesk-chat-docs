@@ -1,5 +1,5 @@
 ---
-title: Copy of Pengaturan Chat
+title: Pengaturan Chat
 deprecated: false
 hidden: true
 metadata:
@@ -91,6 +91,12 @@ Isi konfigurasi berikut:
 - Enkripsi: tanpa enkripsi, TLS, atau SSL.
 - Username.
 - Password.
+
+<Callout icon="far fa-circle-info" theme="info">
+  ### Perhatian
+
+  Jika Anda hendak menggunakan gmail SMTP, pastikan kolom password menggunakan APP PASSWORD yang di-generate di pengaturan akun google tersebut. <Anchor target="_blank" href="https://support.google.com/mail/answer/185833?hl=id">Lihat disini</Anchor>
+</Callout>
 
 Saat mengubah akun, password dapat dikosongkan apabila tidak ingin mengganti password lama. Password tersimpan tidak ditampilkan kembali oleh API.
 
