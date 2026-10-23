@@ -1,5 +1,5 @@
 ---
-title: Copy of Membuka dan Membalas Percakapan
+title: Membuka dan Membalas Percakapan
 deprecated: false
 hidden: true
 metadata:
