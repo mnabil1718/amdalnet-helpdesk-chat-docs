@@ -1,7 +1,7 @@
 ---
 title: Menggunakan Template Balasan
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: noindex
 ---
