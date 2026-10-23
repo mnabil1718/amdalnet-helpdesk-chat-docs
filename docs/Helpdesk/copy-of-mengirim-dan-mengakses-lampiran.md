@@ -1,7 +1,7 @@
 ---
-title: Copy of Mengirim dan Mengakses Lampiran
+title: Mengirim dan Mengakses Lampiran
 deprecated: false
-hidden: true
+hidden: false
 metadata:
   robots: index
 ---
@@ -65,5 +65,7 @@ Pada lampiran di riwayat chat, admin dapat:
 - Mengunduh file.
 - Memilih menu **Unduh**.
 - Memilih menu **Salin link**.
+
+<br />
 
 Tautan lampiran dapat dibagikan. Perlakukan tautan tersebut sebagai informasi sensitif dan jangan membagikannya kepada pihak yang tidak berwenang.
