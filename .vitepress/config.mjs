@@ -5,6 +5,7 @@ import fs from 'node:fs'
 import path from 'node:path'
 import { fileURLToPath } from 'node:url'
 import { defineConfig } from 'vitepress'
+import readmeCompat from './readme-compat.mjs'
 
 const ROOT = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..')
 const SRC = path.join(ROOT, 'docs')
@@ -27,9 +28,17 @@ function readOrder(dir) {
     .map(unquote)
 }
 
-// Items listed in _order.yaml first, anything unlisted after, alphabetically
+// Items listed in _order.yaml first, anything unlisted after, alphabetically.
+// Matches by exact name or by slug, so "getting-started" in _order.yaml
+// matches a folder called "Getting Started".
 function ordered(dir, items) {
-  const listed = readOrder(dir).filter((i) => items.includes(i))
+  const listed = []
+  for (const entry of readOrder(dir)) {
+    const match =
+      items.find((i) => i === entry) ||
+      items.find((i) => slugify(i) === slugify(entry))
+    if (match && !listed.includes(match)) listed.push(match)
+  }
   return [...listed, ...items.filter((i) => !listed.includes(i)).sort()]
 }
 
@@ -101,6 +110,10 @@ export default defineConfig({
   lastUpdated: true,
   // ReadMe-style internal links (e.g. doc:slug) don't resolve here; don't fail the build
   ignoreDeadLinks: true,
+  markdown: {
+    // Render ReadMe callouts, Anchor/Image components, accordions
+    config: (md) => md.use(readmeCompat),
+  },
   themeConfig: {
     sidebar,
     search: { provider: 'local' },
