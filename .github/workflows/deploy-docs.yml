@@ -1,0 +1,46 @@
+# Builds the VitePress site and publishes it to GitHub Pages
+# on every push (including the ones ReadMe's Git sync makes).
+name: Deploy docs
+
+on:
+  push:
+    branches: [v1.0]   # change if ReadMe syncs to a different branch
+  workflow_dispatch:   # adds a manual "Run workflow" button
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0   # needed for "last updated" dates
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+      - uses: actions/configure-pages@v5
+      - run: npm install
+      - run: npm run docs:build
+        env:
+          VITEPRESS_BASE: /${{ github.event.repository.name }}/
+      - uses: actions/upload-pages-artifact@v4
+        with:
+          path: .vitepress/dist
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - id: deployment
+        uses: actions/deploy-pages@v4
